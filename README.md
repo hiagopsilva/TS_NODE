@@ -2,12 +2,12 @@
 <p align="center"> Aplicação desenvolvida em um video aula da Rocketseat. </p>
  
 ## Projeto
-Uma Aplicação backend simples devensolvida com Typescript, NodeJS e MongoDB.
+Uma aplicação backend simples devensolvida com Typescript, NodeJS e MongoDB.
 Essa aplicação tem apenas a finalidade de cadastrar o usuário e Listar todos.
 
 ### Features
 
-- **Node Js** 
+- **NodeJS** 
 - **Typescript**
 - **Eslint**
 - **Prettier**
@@ -18,8 +18,7 @@ Essa aplicação tem apenas a finalidade de cadastrar o usuário e Listar todos.
 - **Mongoose**
 - **Cors**
 
-### Como utilizar
-
+## Como utilizar
 - Clone o repositório em uma pasta local da sua máquina.
 - Abra o prompt de comando e entre na pasta onde o respositório esta clonado.
 
