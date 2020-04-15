@@ -1,5 +1,5 @@
 <h1 align="center"> TS NODE </h1>
-<p align="center"> Aplicação desenvolvida em um video aula da Rocketseat. </p>
+<p align="center"> Aplicação desenvolvida em uma video aula da Rocketseat. </p>
  
 ## Projeto
 Uma aplicação backend simples devensolvida com Typescript, NodeJS e MongoDB.
