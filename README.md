@@ -5,7 +5,7 @@
 Uma aplicação backend simples devensolvida com Typescript, NodeJS e MongoDB.
 Essa aplicação tem apenas a finalidade de cadastrar o usuário e Listar todos.
 
-### Features
+## Features
 
 - **NodeJS** 
 - **Typescript**
