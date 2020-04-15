@@ -23,8 +23,7 @@ Essa aplicação tem apenas a finalidade de cadastrar o usuário e Listar todos.
 - Clone o repositório em uma pasta local da sua máquina.
 - Abra o prompt de comando e entre na pasta onde o respositório esta clonado.
 
-**Execute os comandos abaixo:**
-```
+**Execute os comandos abaixo:**```
 yarn
 yarn start
 ```
